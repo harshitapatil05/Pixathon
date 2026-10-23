@@ -7,7 +7,7 @@ is `src/routes/__root.tsx`.
 
 ## Conventions
 
-| File | URL |
+| File | https://anomaly-stairwell-game.lovable.app/ |
 | --- | --- |
 | `index.tsx` | `/` |
 | `about.tsx` | `/about` |
